@@ -1,0 +1,21 @@
+.thumbnail{ 
+    margin: auto;
+    display: block;
+    background-color: white;
+    border-radius: 50%;
+}
+ 
+.img-circle{
+    margin: auto;
+    display: block;
+    background-color: #eee;
+    border-radius: 50%;
+}
+
+body{
+    margin-top: 33px;
+}
+
+.thumbnai .caption{ 
+    background-color: #eee;
+}
